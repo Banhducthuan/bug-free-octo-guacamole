@@ -45,7 +45,7 @@ MonoBehaviour:
   m_MinSize: {x: 683, y: 492}
   m_MaxSize: {x: 14004, y: 14042}
   vertical: 0
-  controlID: 31
+  controlID: 52
 --- !u!114 &3
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -210,7 +210,7 @@ MonoBehaviour:
   m_MinSize: {x: 406, y: 492}
   m_MaxSize: {x: 10002, y: 14042}
   vertical: 1
-  controlID: 32
+  controlID: 66
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -234,7 +234,7 @@ MonoBehaviour:
   m_MinSize: {x: 406, y: 221}
   m_MaxSize: {x: 8006, y: 4021}
   vertical: 0
-  controlID: 33
+  controlID: 67
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -354,20 +354,20 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/platformerGraphicsDeluxe/Tiles
+    - Assets
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/platformerGraphicsDeluxe/Tiles
+  - Assets
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: C:\Users\44411316\Documents\New Unity Project
+  m_LastProjectPath: C:\Users\44411316\OneDrive - Macquarie University\ara ara\bug-free-octo-guacamole\bug-free-octo-guacamole
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 723e0000
-    m_LastClickedID: 15986
-    m_ExpandedIDs: 000000006e310000703b000000ca9a3b
+    m_SelectedIDs: de290000
+    m_LastClickedID: 10718
+    m_ExpandedIDs: 00000000de290000fa2b000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -395,7 +395,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 
+    m_ExpandedIDs: 00000000de290000fa2b0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -422,7 +422,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 1
+    m_HadKeyboardFocusLastEvent: 0
     m_ExpandedInstanceIDs: c6230000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -447,7 +447,7 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
     m_NewAssetIndexInList: -1
-    m_ScrollPosition: {x: 0, y: 120}
+    m_ScrollPosition: {x: 0, y: 0}
     m_GridSize: 64
   m_DirectoriesAreaWidth: 115
 --- !u!114 &15
@@ -513,7 +513,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: de08feff9e8cfeffa48cfeffa88cfeff4a9afeffdcabfeff82affeff04b5feff106bffff3491ffffaeccffff52efffff00000000
+    m_ExpandedIDs: 28f3ffffe6fbffff0000000068320000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: platformb (1)
@@ -524,7 +524,7 @@ MonoBehaviour:
         y: 0
         width: 0
         height: 0
-      m_UserData: -128802
+      m_UserData: 12904
       m_IsWaitingForDelay: 0
       m_IsRenaming: 0
       m_OriginalEventType: 0
@@ -563,14 +563,14 @@ MonoBehaviour:
     height: 542
   m_PersistentViewDataDictionary: {fileID: 0}
   m_SceneLighting: 1
-  lastFramingTime: 871.6306261
+  lastFramingTime: 29.2312099
   m_2DMode: 1
   m_isRotationLocked: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 2.364804, y: -2.6488383, z: 0.1056314}
+    m_Target: {x: 1.1565827, y: -1.2471809, z: 0.0617753}
     speed: 2
-    m_Value: {x: 2.364804, y: -2.6488383, z: 0.1056314}
+    m_Value: {x: 1.1565827, y: -1.2471809, z: 0.0617753}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -602,15 +602,15 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
-    m_Target: 4.065668
+    m_Target: 8.716141
     speed: 2
-    m_Value: 4.065668
+    m_Value: 8.716141
   m_Ortho:
     m_Target: 1
     speed: 2
     m_Value: 1
   m_ShowGlobalGrid: 1
-  m_LastSceneViewRotation: {x: 0.07972466, y: -0.0020910315, z: 0.00016710517, w: 0.9968147}
+  m_LastSceneViewRotation: {x: -0.08717229, y: 0.89959055, z: -0.21045254, w: -0.3726226}
   m_LastSceneViewOrtho: 0
   m_ReplacementShader: {fileID: 0}
   m_ReplacementString: 
